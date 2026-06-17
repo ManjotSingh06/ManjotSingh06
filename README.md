@@ -1,17 +1,13 @@
 # Manjot Singh
 
-B.Tech CSE Student
+B.Tech CSIT Student
 
 ## Skills
-Python • Django • FastAPI • React • SQL • Machine Learning
+Python • Django • Flask • Langchain •LanGraph • React • SQL • Machine Learning
 
 ## Featured Projects
 - Customer Support AI Agent
+- Django Library Management System
 - W-Safe
 - Movie Recommendation System
-- Django Library Management System
 
-## Currently Learning
-- Generative AI
-- LangGraph
-- System Design
